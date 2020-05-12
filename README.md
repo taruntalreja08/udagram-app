@@ -19,10 +19,7 @@ Furthermore, you need to have:
 ### Clone the repository
 
 Clone the repository on your local machine:
-
-```
-git clone git@github.com:scarrupt/udagram.git
-```
+`
 
 ### Create an S3 bucket
 
